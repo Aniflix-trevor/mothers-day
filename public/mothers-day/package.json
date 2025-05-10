@@ -1,0 +1,26 @@
+{
+  "name": "mothers-day",
+  "version": "1.0.0",
+  "description": "A Mother's Day website showcasing cards and a hero section.",
+  "main": "src/main.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "vite": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.0.0"
+  },
+  "keywords": [
+    "mother's day",
+    "react",
+    "vite"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
